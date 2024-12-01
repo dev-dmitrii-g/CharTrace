@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 use gtk4::gdk::ModifierType;
 use gtk4::prelude::*;
 use gtk4::{glib, AboutDialog, Align, Application, ApplicationWindow, Builder, Button, CheckButton, ComboBoxText, Entry, EventControllerKey, Frame, Label, Orientation, Separator, ShortcutsWindow};
