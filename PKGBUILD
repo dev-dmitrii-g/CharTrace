@@ -1,4 +1,4 @@
-# Maintainer: dev-dmitrii-g <gagarindmitrii56@gmail.com>
+# Maintainer: dev-dmitrii-g
 pkgname=CharTrace
 pkgver=1.0.0
 pkgrel=1
